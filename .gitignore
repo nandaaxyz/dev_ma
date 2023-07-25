@@ -1,0 +1,9 @@
+/upload/surat_keluar/*
+/upload/surat_masuk/*
+
+# exception to the rule
+!/upload/surat_keluar/.gitkeep
+!/upload/surat_masuk/.gitkeep
+
+/application/config/config.php
+/application/config/database.php
